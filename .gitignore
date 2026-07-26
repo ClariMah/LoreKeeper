@@ -1,0 +1,11 @@
+# Executaveis compilados
+*.exe
+*.exe~
+*.dll
+*.so
+*.dylib
+
+# Variaveis de ambiente e pastas da IDE
+.env
+.vscode/
+.idea/
